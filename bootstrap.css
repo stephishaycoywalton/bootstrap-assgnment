@@ -1,0 +1,36 @@
+.full-body {
+    margin: 30px;
+    padding: 20px;
+}
+.jumbotron {
+    background-color:rgb(3, 252, 218);
+}
+
+.kyanite {
+    display: inline-block;
+    height: 200px;
+    float: right;
+    padding: 20px;
+    width: auto;
+    border: solid black 5px;
+}
+
+.silver-wire {
+    display: inline-block;
+    height: 200px;
+    float: left;
+    padding: 20px;
+    width: auto;
+    border: solid black 5px;
+}
+.crystal {
+    display: inline-block;
+    height: 200px;
+    float: center;
+    padding: 20px;
+    width: auto;
+    border: solid black 5px;
+}
+.container-fluid {
+    background-color: aliceblue;
+}
